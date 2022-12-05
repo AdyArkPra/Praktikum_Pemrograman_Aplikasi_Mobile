@@ -27,6 +27,8 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  audioplayers: ^0.20.1 # untuk menyetel audio
+  http: ^0.13.4 # untuk API
   flutter:
     sdk: flutter
 
